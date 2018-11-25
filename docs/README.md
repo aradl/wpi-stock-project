@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Making Money from the News
 
-You can use the [editor on GitHub](https://github.com/aradl/wpi-stock-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a demo-based project which uses a time series dataset of financial market information (stock prices) and a news dataset consisting of information about the sentiment of the news as it relates to the stocks. From this information we will predict stock trends.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a competition that is hosted on [Kaggle](https://www.kaggle.com/c/two-sigma-financial-news).
 
-### Markdown
+### Goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of our project is to explore the use of [Ensemble Methods](https://en.wikipedia.org/wiki/Ensemble_learning) with the intricacies of time series data.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Code Breakdown
 
-- Bulleted
-- List
+Looking through the src/ folder located in this repository you will see ...
 
-1. Numbered
-2. List
+TODO add pictures
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### About the Team
+[Andrew](https://www.linkedin.com/in/andrew-radlbeck-21140838/) (aradl)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aradl/wpi-stock-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TODO everyone add something here
