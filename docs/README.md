@@ -8,7 +8,6 @@ This is a competition that is hosted on [Kaggle](https://www.kaggle.com/c/two-si
 
 The goal of our project is to explore the use of [Ensemble Methods](https://en.wikipedia.org/wiki/Ensemble_learning) with the intricacies of time series data.
 
-
 ### Corpus collection
 
 The data is stored and retrieved as Pandas dataframes in the Kernels environment. Prediction of future stock price returns based on two sources of data:
@@ -24,7 +23,16 @@ TODO add pictures
 
 ### Steps to follow to run the code
 
-### Implementation results(graphs)
+1. Create an account on [Kaggle](https://www.kaggle.com/)
+2. Join the [competition](https://www.kaggle.com/c/two-sigma-financial-news)
+3. Once you have accepted the terms and conditions of the competition you will be granted access to the dataset
+4. Create a new "kernel" or Fork our public kernel  !!!!!!!!!!!!!!!!!!!TODO ADD A LINK!!!!!!!!!!!!!!!!!!!!
+5. If you choose to start new you can download our latest kernel from the github source directory then upload it into your newly created kernel
+
+### Implementation Results
+
+Our current accuracy is: !!!!!!!!!!!!!!!!!!TODO!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!TODO!!!!!!!!!!!!!! add graphs
 
 ### Conclusion
 
