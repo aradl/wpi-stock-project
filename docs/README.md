@@ -17,26 +17,25 @@ Details of the data can be found here: https://www.kaggle.com/c/two-sigma-financ
 
 ### Code Breakdown
 
-Looking through the src/ folder located in this repository you will see ...
-
-TODO add pictures
+Looking through the src/ folder located in this repository you will see four python notebooks:
+1. Analytical model - finds the relation between the market data and the target
+2. News model - finds the relation metween the news and the target value
+3. Relation model - finds the relation between the news and the market
+4. Ensamble model - a combination of the above three
 
 ### Steps to follow to run the code
 
 1. Create an account on [Kaggle](https://www.kaggle.com/)
 2. Join the [competition](https://www.kaggle.com/c/two-sigma-financial-news)
 3. Once you have accepted the terms and conditions of the competition you will be granted access to the dataset
-4. Create a new "kernel" or Fork our public kernel  !!!!!!!!!!!!!!!!!!!TODO ADD A LINK!!!!!!!!!!!!!!!!!!!!
+4. Create a new "kernel" or Fork our public kernel
 5. If you choose to start new you can download our latest kernel from the github source directory then upload it into your newly created kernel
 
 ### Implementation Results
 
-Our current accuracy is: !!!!!!!!!!!!!!!!!!TODO!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!TODO!!!!!!!!!!!!!! add graphs
+To see the lastest results please visit the Ensamble Kernel hosted on kaggle
 
 ### Conclusion
 
 ### About the Team
 [Andrew](https://www.linkedin.com/in/andrew-radlbeck-21140838/) (aradl)
-
-TODO everyone add something here
