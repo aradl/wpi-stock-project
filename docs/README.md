@@ -36,5 +36,5 @@ To see the latest results please visit the Ensemble Kernel hosted on Kaggle
 In this project we looked at many different aspects of the stock market and attempted to take everything we learned and apply it in one project. Overall we have discovered the power of ensemble methods and the difficulty in working with large datasets. They can be flawed, misleading and incomplete.
 
 ### About the Team
-[Andrew](https://www.linkedin.com/in/andrew-radlbeck-21140838/) (aradl)
-[Yang](https://www.linkedin.com/in/alexfuyang) (ilovemanu)
+- [Andrew](https://www.linkedin.com/in/andrew-radlbeck-21140838/) (aradl)
+- [Yang](https://www.linkedin.com/in/alexfuyang) (ilovemanu)
