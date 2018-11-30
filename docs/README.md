@@ -15,27 +15,25 @@ Market data (2007 to present)- contains financial market information such as ope
 News data (2007 to present) - contains information about news articles/alerts published about assets, such as article details, sentiment, and other commentary. 
 Details of the data can be found here: https://www.kaggle.com/c/two-sigma-financial-news/data
 
+### Big Question
+
+The big question here is simply; how well will this work? The stock market is a tricky [random process](https://www.quora.com/How-are-stochastic-processes-represented-in-the-stock-market) making its behavior difficult to predict. What is easier to predict is how people will react to the news related to a particular stock. This process is typically done by humans and here we seek to find a way to automate it and it is no easy feat.
+
 ### Code Breakdown
 
 Looking through the src/ folder located in this repository you will see four python notebooks:
 1. Analytical model - finds the relation between the market data and the target
-2. News model - finds the relation metween the news and the target value
+2. News model - finds the relation between the news and the target value
 3. Relation model - finds the relation between the news and the market
-4. Ensamble model - a combination of the above three
-
-### Steps to follow to run the code
-
-1. Create an account on [Kaggle](https://www.kaggle.com/)
-2. Join the [competition](https://www.kaggle.com/c/two-sigma-financial-news)
-3. Once you have accepted the terms and conditions of the competition you will be granted access to the dataset
-4. Create a new "kernel" or Fork our public kernel
-5. If you choose to start new you can download our latest kernel from the github source directory then upload it into your newly created kernel
+4. Ensemble model - a combination of the above three
 
 ### Implementation Results
 
-To see the lastest results please visit the Ensamble Kernel hosted on kaggle
+To see the latest results please visit the Ensemble Kernel hosted on Kaggle
 
-### Conclusion
+### Take Away
+
+In this project we looked at many different aspects of the stock market and attempted to take everything we learned and apply it in one project. Overall we have discovered the power of ensemble methods and the difficulty in working with large datasets. They can be flawed, misleading and incomplete.
 
 ### About the Team
 [Andrew](https://www.linkedin.com/in/andrew-radlbeck-21140838/) (aradl)
