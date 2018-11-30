@@ -37,3 +37,4 @@ In this project we looked at many different aspects of the stock market and atte
 
 ### About the Team
 [Andrew](https://www.linkedin.com/in/andrew-radlbeck-21140838/) (aradl)
+[Yang](https://www.linkedin.com/in/alexfuyang) (ilovemanu)
