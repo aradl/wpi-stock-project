@@ -9,7 +9,7 @@ See [our github page](https://aradl.github.io/wpi-stock-project/) for more infor
 2. Join the [competition](https://www.kaggle.com/c/two-sigma-financial-news)
 3. Once you have accepted the terms and conditions of the competition you will be granted access to the dataset
 4. Create a new "kernel" or fork our public kernel. For general help with Kaggle see [this site](https://www.kaggle.com/getting-started)
-5. If you choose to start new you can download our latest kernel from the github source directory then upload it into your newly created kernel
+5. If you choose to start new you can [download](https://www.kaggle.com/aradlbeck/vote-lrnews-lgball-anasvc) our latest kernel from the github source directory then upload it into your newly created kernel
 
 ### Dependencies
 
