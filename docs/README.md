@@ -29,7 +29,7 @@ Looking through the src/ folder located in this repository you will see four pyt
 
 ### Implementation Results
 
-To see the latest results please visit the Ensemble Kernel hosted on Kaggle
+To see the latest results please visit the [Ensemble Kernel](https://www.kaggle.com/aradlbeck/vote-lrnews-lgball-anasvc) hosted on Kaggle
 
 ### Other Results
 
